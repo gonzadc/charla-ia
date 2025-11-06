@@ -1,0 +1,5 @@
+Fecha,Turno,Línea,Tiempo_disponible,Paradas_planificadas,Paradas_no_planificadas,Piezas_totales,Piezas_buenas,Velocidad_teorica
+2025-10-30,A,SMT1,480,30,45,950,920,2
+2025-10-30,B,SMT2,480,40,60,910,875,2
+2025-10-30,C,TEST1,480,20,50,880,850,1.8
+
